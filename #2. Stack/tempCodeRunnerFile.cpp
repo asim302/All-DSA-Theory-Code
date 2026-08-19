@@ -1,0 +1,10 @@
+	cout << "Stack s2" << endl;
+	s2.push(1);
+	s2.push(3);
+	s2.push(5);
+	s2.push(7);
+	s2.push(9);
+	s1.display();
+	s2.peek();
+	s2.pop();
+	s2.pop();
